@@ -6,5 +6,6 @@ public class HelloWorld {
 			name = args[0];
 		}
 		System.out.println("Hello, " + name);
+		System.out.println("Study hard! :)");
 	}
 }
